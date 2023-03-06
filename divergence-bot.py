@@ -6,8 +6,8 @@ from binance.client import Client
 import time
 
 #for telegram
-token = '6092925870:AAF37tv9-LeMo3UPpc3EIvAE6uO2R44uRoo'
-chat_id = '-1001709437165'
+token = '' #your robot token 
+chat_id = '' #telegram chat id
 
 api_key =  key
 secret_key = secret
