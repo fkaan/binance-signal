@@ -6,8 +6,8 @@ from config import key, secret
 import requests
 
 #for telegram
-token = '6092925870:AAF37tv9-LeMo3UPpc3EIvAE6uO2R44uRoo'
-chat_id = '-1001709437165'
+token = 'YOUR TELEGRAM TOKEN'
+chat_id = 'CHAT ID'
 
 api_key =  key
 secret_key = secret
