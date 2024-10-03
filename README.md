@@ -9,7 +9,7 @@ This project identifies bullish and bearish RSI divergences across all Binance f
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Introduction
 
@@ -86,13 +86,13 @@ The script will:
 - **Bullish Divergence**:
     ```
     BTCUSDT RSI: 29.87
-    Pozitif Uyumsuzluk Sinyali. 🟢
+     🟢
     ```
 
 - **Bearish Divergence**:
     ```
     BTCUSDT RSI: 71.23
-    Negatif Uyumsuzluk Sinyali. 🔴
+     🔴
     ```
 
 
